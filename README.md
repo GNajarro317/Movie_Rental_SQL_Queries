@@ -1,12 +1,15 @@
 ### Date created
 Date project was created: 7-18-2024
-Date README file was last updated: 9-18-2024
+Date README file was last updated: 12-8-2025
 
 ### Project Title
-Movie Rental Database Exploration
+SQL Movie Rental Exploration
 
 ### Description
-In this project, I used SQL to explore the Sakila DVD Rental database. I wrote queries to analyze customer patterns in movie rentals and compared store performance. Through this process, I developed visualizations to showcase the results of my queries, enhancing my understanding of SQL and database management.
+This project explores the Sakila DVD Rental database using SQL.
+I wrote a series of queries to analyze customer rental behavior, measure store performance, and uncover trends within the dataset. To present these findings clearly, I also created visualizations based on the query results.
+
+This project strengthened my understanding of SQL querying, database design, and data-driven insights using a realistic relational schema.
 
 ### Files used
 Files used in this project include:
